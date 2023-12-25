@@ -1,0 +1,14 @@
+/* Random Image Image Element */
+.random-image__img {
+    width: 400px;
+    height: 604px;
+    object-fit: cover;
+    border-radius: 3px;
+    margin: 10px;
+    /* Add any additional styles for the random image */
+  }
+  
+  
+  /* Random Image Button Element */
+  .random-image__button {
+    position: center; }

@@ -1,0 +1,17 @@
+/* Footer Block */
+.footer {
+    background-color: #222222;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    font-size: 18px;
+  }
+  
+  /* Footer Text Element */
+  .footer__text {
+    /* Add any additional styles for the footer text */
+    color: white; /* Example: Set text color to white */
+  }
+  

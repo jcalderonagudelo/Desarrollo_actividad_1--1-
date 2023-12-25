@@ -1,0 +1,15 @@
+/* Book Block */
+.book {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+  }
+  
+  /* Book Info Element */
+  .book__info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
