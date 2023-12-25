@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import useCounter from '../hooks/useCounter';
-import './RandomImage.css';
+import './randomImage.css';
 
 const RandomImage = () => {
   const [imageURL, setImageURL] = useState('https://picsum.photos/875/1321?random');

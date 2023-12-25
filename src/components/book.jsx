@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import React from "react";
-import "./Book.css";
+import "./book.css";
 
 export default function Book({ item }) {
   return (
