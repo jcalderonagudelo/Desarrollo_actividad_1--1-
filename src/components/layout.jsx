@@ -1,5 +1,5 @@
 import React from 'react';
-import NavBar from './NavBar'; // Asumo que el archivo se llama NavBar.js
+import NavBar from "./navbar"
 import './layout.css';
 
 export default function Layout({ children }) {

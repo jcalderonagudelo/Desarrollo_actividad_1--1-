@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import SearchBar from './Search'; // Asumo que el archivo se llama Search.js
+import SearchBar from './search'; // Asumo que el archivo se llama Search.js
 import './navbar.css';
 
 export default function NavBar() {
